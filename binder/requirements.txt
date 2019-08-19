@@ -2,3 +2,4 @@ numpy
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
+rise
