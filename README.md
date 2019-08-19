@@ -20,3 +20,9 @@
   - Critical Sampling
   - Analysis Filter Bank
   - Synthesis Filter Bank
+
+# Requirements
+For the requirements for this project to run, please check the following files at the 'binder' folder:
+  - apt.txt
+  - requirements.txt
+  - postBuild
