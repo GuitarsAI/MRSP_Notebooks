@@ -3,12 +3,12 @@
     <img src="./images/msp_header.png">
 </p>
 
-#### Prof. Dr. -Ing. Gerald Schuller <br> Jupyter Notebook: Renato Profeta
+#### Prof. Dr. -Ing. Gerald Schuller <br> Jupyter Notebooks and Videos: Renato Profeta
 [Applied Media Systems Group](https://www.tu-ilmenau.de/en/applied-media-systems-group/) <br>
 [Technische Universität Ilmenau](https://www.tu-ilmenau.de/)
 
 # Content
-- 01 Introduction: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Intro.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Intro.ipynb)
+- 01 Introduction: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Intro.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Intro.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/rkQN6WVi8ak)
 
   - What is Multirate Signal Processing? Where is it used?
   - Python Example of a Discrete Time Signal
