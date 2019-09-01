@@ -27,7 +27,7 @@
   - Python Example: Live Spectrogram and Aliasing
   - Non-Uniform Frequency Decomposition
   - Frequency Domain and Notation
-  - Common Types of Frequency Transform:
+  - Common Types of Frequency Transforms:
     - Discrete Time Fourier Transform (DTFT)
     - Discrete Fourier Transform (DFT)
     - Discrete Cosine Transform (DCT)
