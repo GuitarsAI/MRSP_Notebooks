@@ -119,5 +119,4 @@ dependencies:
   - yaml=0.1.7=hfa6e2cd_1001
   - zeromq=4.3.1=he025d50_1000
   - zlib=1.2.11=h2fa13f4_1004
-prefix: C:\Anaconda3\envs\MSPTutorials
 
