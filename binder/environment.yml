@@ -8,5 +8,9 @@ dependencies:
   - numpy
   - scipy
   - sympy
+  - matplotlib
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - rise
  
 
