@@ -21,7 +21,7 @@
   - Analysis Filter Bank
   - Synthesis Filter Bank
   
-- 02 Multiresolution: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Multiresolution.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Multiresolution.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://https://youtu.be/O4m8fZHgl0c)
+- 02 Multiresolution: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Multiresolution.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Multiresolution.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/O4m8fZHgl0c)
 
   - Uniform Filter Banks
   - Python Example: Live Spectrogram and Aliasing
