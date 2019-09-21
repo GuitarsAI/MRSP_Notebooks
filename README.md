@@ -33,6 +33,13 @@
     - Discrete Cosine Transform (DCT)
     - z-Transform
     - Short-Time Fourier Transform (STFT)
+    
+- 03 Frequency Response:
+
+    - Frequency Response
+    - Example: Obtaining the Frequency Response of a "Black Box" system using Noise
+    - Example: Obtaining the Frequency Response of a "Black Box" system using Sweeping Sinusoid
+    -
   
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT)
