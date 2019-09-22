@@ -45,6 +45,8 @@
             - Discrete Convolution as Matrix Multiplication (Sylvester Matrix)
             - Plotting Poles and Zeros in the Complex Plane
     - dB Revision
+        - dB for Voltage and Power
+        - Cascading Filters
     
   
  # YouTube Playlist
