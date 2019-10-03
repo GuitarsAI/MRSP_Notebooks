@@ -36,7 +36,6 @@
     
 - 03 Frequency Response: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_FrequencyResponse.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_FrequencyResponse.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_FrequencyResponse.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/7XWrH9IV-EA)
 
-
     - Frequency Response
     - Example: Obtaining the Frequency Response of a "Black Box" system using Noise
     - Example: Obtaining the Frequency Response of a "Black Box" system using Sweeping Sinusoid
@@ -44,10 +43,17 @@
         - Example: Low Pass Filter as Moving Average
             - Discrete Convolution as Matrix Multiplication (Sylvester Matrix)
             - Plotting Poles and Zeros in the Complex Plane
+            - Complex Conjugate Symmetry
     - dB Revision
         - dB for Voltage and Power
         - Cascading Filters
-    
+        
+ - 04 Filters: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Filters.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Filters.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Filters.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/BhyxN_INkNw)
+
+    - Ideal Low Pass Filter
+        - Frequency Response
+        - Impulse Response
+    - Delay (Shift Operator)
   
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT)
