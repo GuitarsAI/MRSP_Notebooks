@@ -13,5 +13,5 @@ dependencies:
   - jupyter_contrib_nbextensions
   - rise
   - plotly=3.10.0
- 
+  - control
 
