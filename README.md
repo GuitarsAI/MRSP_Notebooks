@@ -55,6 +55,14 @@
         - Impulse Response
     - Delay (Shift Operator)
   
+- 05 Filters and Windows: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_FiltersAndWindows.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_FiltersAndWindows.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_FiltersAndWindows.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/CmwHW7PBNf8)
+
+    - Ideal Low Pass Filter
+        - Quadratic Error
+        - Parseval Theorem
+    - Rectangular Window
+    - Approximation of an Ideal Low Pass Filter using a Rectangular Window and Delay
+  
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT)
  
