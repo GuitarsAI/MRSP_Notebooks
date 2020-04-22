@@ -62,7 +62,26 @@
         - Parseval Theorem
     - Rectangular Window
     - Approximation of an Ideal Low Pass Filter using a Rectangular Window and Delay
+    
+ - 06a Windows: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Windows.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Windows.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Windows.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Dwkdlb5xYkM)
+
+    - Rectangular Window
+    - Raised Cosine Window
+    - Kaiser Window
+    - Vorbis Specification
   
+ - 06b Filter Design with the Window Method: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Filter_Design_Windows.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Filter_Design_Windows.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Filter_Design_Windows.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/hxWyLvSwh7k)
+
+    - Design Method
+    - Design using Modulation
+  
+ - 07 Sampling: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Sampling.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Sampling.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Sampling.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/PEaW9xG5cJM)
+ 
+    - Sampling a Discrete Time Signal
+    - Real-Time Python Example
+    - Downsampling
+    - Upsampling
+    
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT)
  
