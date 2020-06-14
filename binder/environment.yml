@@ -20,5 +20,5 @@ dependencies:
   - pyaudio
   - plotly=3.10.0
   - nodejs
-prefix: D:\Anaconda3\envs\TU_Tutorials
+
 
