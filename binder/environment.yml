@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.7
+  - python=
   - numpy
   - scipy
   - matplotlib
@@ -11,7 +11,7 @@ dependencies:
   - sympy
   - bokeh
   - librosa
-  - notebook==6.0.1
+  - notebook
   - jupyter_nbextensions_configurator
   - jupyter_contrib_nbextensions
   - widgetsnbextension
