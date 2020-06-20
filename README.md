@@ -118,7 +118,24 @@
     - Polyphase Representation
     - Synthesis filter Bank
     - Perfect Reconstruction
+    
+ - 13 MDCT: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_mdct.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_mdct.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_mdct.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/RhDB5yKdU5s)
  
+    - Modified Discrete Cosine Transform (MDCT)
+    - MDCT Filters: Python Example
+    - Symmetries of a Cosine Modulation Function
+    - Sparse Matrices and the MDCT
+        -  Python Computation
+    - The Delay Matrix
+        - Python Sympy Example
+        - Faster Numerical Python Implementation
+    - The Python Folding Matrix Function
+    - The Factorization
+    - Perfect Reconstruction
+        - Example in Python
+    - MDCT Python Implementation, Analysis
+    - MDCT Synthesis Filter Bank
+    
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT)
  
