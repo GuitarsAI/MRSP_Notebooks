@@ -136,6 +136,14 @@
     - MDCT Python Implementation, Analysis
     - MDCT Synthesis Filter Bank
     
+- 14 LDFB: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_LDFB.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_LDFB.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_LDFB.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/MFbMI5yoaOk)
+ 
+    - Low Delay Filter Banks (LDFB)
+    - Zero-Delay Matrix
+    - Maximum-Delay Matrix
+    - Python Fast Implementation Example
+
+    
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT)
  
