@@ -150,6 +150,17 @@
     - Newton's Method
     - Gradient Descent
     - Python Example for the Optimization of an MDCT Filter Bank
+    
+- 16 Artificial Neural Networks: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_NeuralNets.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_NeuralNets.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_NeuralNets.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/4l3uTwFJpdo)
+ 
+    - Artificial Neural Networks
+    - Gradient Descent and Back-Propagation
+    - Python Example for the MNIST Digit Recognition
+    - Convolution Neural Networks
+    - Python Keras Convolutional Neural Network Example
+    - Implementation using Python Pytorch
+    - Implementation using a Dense Net
+    - Real-Time Online-Implementation of Convolutional Neural Networks
 
     
  # YouTube Playlist
